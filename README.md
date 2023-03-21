@@ -3,7 +3,6 @@
 
 - 🤔 &nbsp;I’m looking for help with ...
 -->
-<iframe src="https://giphy.com/embed/kHlrPbN9zaoOo7KXDo" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-php-edr-laravel-kHlrPbN9zaoOo7KXDo">via GIPHY</a></p>
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJjNTFiNTE3ZjY0YmI5ZmJkYTllOTg3YTMyZjNhZjcwNmQ2MDdkZiZjdD1z/XAxylRMCdpbEWUAvr8/200w.webp" width="100">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZiM2I5ZTMzYTMxZTFiZGU5MTg3Yzg2NTk3NWU2MjE0ZTg3NzZmNCZjdD1z/fsEaZldNC8A1PJ3mwp/200w.webp" width="100">
