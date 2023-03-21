@@ -49,7 +49,7 @@ I'm a **Software Engineer**, here are some ideas to get you started:
 
 ### Find me around the web 🌍:
 
-<p align="left"> 
+<p style="display: flex; gap: 5px; align-items: center; justify-content: center;"> 
     <!--<a href="https://discord.com/users/miguelortizdev" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
     </a>--> 
@@ -66,7 +66,7 @@ I'm a **Software Engineer**, here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
     </a>
     <a href="https://www.linkedin.com/in/miguelortizdev" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="195" />
     </a>
 </p>
 
